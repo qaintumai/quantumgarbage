@@ -56,7 +56,7 @@ setup(
         "future==1.0.0",
         "idna==3.7",
         "importlib_metadata==7.1.0",
-        "Jinja2==3.1.4",
+        "Jinja2==3.1.5",
         "joblib==1.4.2",
         "lark-parser==0.12.0",
         "llvmlite==0.42.0",

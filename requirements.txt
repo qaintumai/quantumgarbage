@@ -5,6 +5,6 @@ PennyLane==0.29.1
 PennyLane-SF==0.29.1
 scikit_learn
 scipy==1.10.1
-setuptools==65.5.0
+setuptools==70.0.0
 torch==2.2.2
 torchvision==0.17.2
